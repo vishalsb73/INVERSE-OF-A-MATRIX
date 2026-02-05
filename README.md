@@ -1,4 +1,3 @@
-<img width="1235" height="775" alt="image" src="https://github.com/user-attachments/assets/82349e6e-b7c3-47b5-8828-530cc739ff53" /># INVERSE-OF-A-MATRIX
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
